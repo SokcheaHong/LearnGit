@@ -1,1 +1,2 @@
 Learning Git!
+I edited a text.
